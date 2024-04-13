@@ -12,6 +12,9 @@ Sou apaixonado por tecnologia, e hoje me dedico a aprender UX/UI Design
 
 ## Ultimos projetos:
 
+- [Projeto Moda](https://vyctorferreira.github.io/projeto-moda/) <br>
+    Projeto criado com meus conhecimentos de HTML e CSS, colocando nos códigos o design do meu portfólio.
+
 - [Projeto Android - Curso em Video](https://vyctorferreira.github.io/projeto-android/) <br>
 - [Projeto Cordel - Curso em Video](https://vyctorferreira.github.io/projeto-cordel/) <br> <br>
 
